@@ -1,9 +1,4 @@
-## Hello, Git!
+## Hello, Git! Let's do this!
 
-New
-
-Remote to Local
-
-Local to Remote
-
-NEWSSS
+- This is ya boy Marnel wazzup
+- Yada yada yada
