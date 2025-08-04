@@ -1,9 +1,3 @@
 ## Hello, Git!
 
-New
-
-Remote to Local
-
-Local to Remote
-
-NEWSSS
+- I'm Mar and I've added a new code
